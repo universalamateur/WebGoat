@@ -13,7 +13,7 @@ web_services:
   - "WebGoatLocalhost8080"
 
 ## Base URL of the application under test.
-base_url: "http://127.0.0.1:8080/"
+base_url: "http://178.254.26.97:8080/"
 
 ## Protocol used to communicate with the software under test. Valid values are "http" and "grpc".
 protocol: http
