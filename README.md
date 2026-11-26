@@ -1,5 +1,9 @@
 # WebGoat 8 Spring Boot Web App Fuzzing Example with
 
+![Project logo](./logo.png)
+
+[Lead repository on GitHub](https://github.com/universalamateur/WebGoat)
+
 ## Introduction
 
 Ci-Fuzz is a security suite with code coverage guided fuzzing at its core.
